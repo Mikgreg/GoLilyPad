@@ -12,7 +12,7 @@ You can currently compile either Server Proxy or Server Connect.
 
 Pull the project and get the dependencies:
 ```bash
-$ go get github.com/LilyPad/GoLilyPad
+$ go get github.com/Mikgreg/GoLilyPad
 $ go get github.com/satori/go.uuid
 $ go get gopkg.in/yaml.v2
 $ go get github.com/klauspost/compress/zlib
@@ -21,13 +21,13 @@ $ go get github.com/klauspost/compress/zlib
 ### Server Connect ###
 
 ```bash
-$ cd $GOPATH/pkg/github.com/LilyPad/GoLilyPad/server/connect/main
+$ cd $GOPATH/pkg/github.com/Mikgreg/GoLilyPad/server/connect/main
 ```
 
 ### Server Proxy ###
 
 ```bash
-$ cd $GOPATH/pkg/github.com/LilyPad/GoLilyPad/server/proxy/main
+$ cd $GOPATH/pkg/github.com/Mikgreg/GoLilyPad/server/proxy/main
 ```
 
 ### Lastly ###
